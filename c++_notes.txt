@@ -1,0 +1,16 @@
+// for running c++ file.
+the folder structure would be like that 
+
+folder--
+--------main.cpp
+--------.vscode
+---------------tasks.json
+
+// the command for running 
+g++ main.cpp -o main 
+
+// the run 
+./main
+
+// for running the codes which have array sum
+g++ -O3 -o min_mac  min_mac.cpp
